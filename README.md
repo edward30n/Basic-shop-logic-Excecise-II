@@ -10,3 +10,5 @@ You are going to find 2 files in this reposatory.
   2) mainII.c      : This file contains the code that I made to solve this problem.
 
 This problem was created by the Pontifical Javeriana University and the solution was created by Edward Nicolas Duarte Valencia.
+
+psdt: The pasword for the manager is: "123".
