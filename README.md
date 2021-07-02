@@ -1,4 +1,4 @@
-# Basic-shop-logic-Excecise-II
+# Basic-shop-logic-Excercise-II
 
 Purpose:
 
