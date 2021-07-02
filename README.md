@@ -9,4 +9,4 @@ You are going to find 2 files in this reposatory.
   1) TallerII.docx : This file contains all the instruction and the detail information necesary to create a solution for the problem (the file is in spanish, you can translate it                      to your mother language).
   2) mainII.c      : This file contains the code that I made to solve this problem.
 
-This problem was created by the Pontifical Javeriana University and the solution as well as the diagram was created by Edward Nicolas Duarte Valencia.
+This problem was created by the Pontifical Javeriana University and the solution was created by Edward Nicolas Duarte Valencia.
